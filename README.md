@@ -52,7 +52,8 @@ This project is my answer to a nagging question: How can we keep our digital mus
    Open your web browser and go to http://localhost:3000 to use the text editor.  
      
 
-6. Install the PWA (Optional):  
+6. Install the PWA (Optional):
+   
    If supported by your browser, you should see an "Install" icon in the address bar to download and install the web application on your desktop for offline use.
 
   ## Usage
