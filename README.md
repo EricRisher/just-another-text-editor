@@ -31,29 +31,29 @@ This project is my answer to a nagging question: How can we keep our digital mus
    Obtain the repository URL and use Git to clone it to your local machine with the command:  
    ```git clone git@github.com:EricRisher/just-another-text-editor.git```
    
-3. Navigate to the Project Directory:
+2. Navigate to the Project Directory:
 
    Change into the project directory using:  
    ```cd main```
    
-5. Install Dependencies:
+3. Install Dependencies:
 
    Install the required npm packages specified in the package.json file by running:  
    ```npm install```
    
-7. Start the Application:
+4. Start the Application:
 
    Run the application locally by executing:  
    ```npm run start```  
    This command starts both the backend and serves the client, bundling the JavaScript files using webpack.  
 
-9. Access the Application:
+5. Access the Application:
 
    Open your web browser and go to http://localhost:3000 to use the text editor.  
      
 
-Install the PWA (Optional):  
-If supported by your browser, you should see an "Install" icon in the address bar to download and install the web application on your desktop for offline use.
+6. Install the PWA (Optional):  
+   If supported by your browser, you should see an "Install" icon in the address bar to download and install the web application on your desktop for offline use.
 
   ## Usage
   To illustrate the usage of the PWA Text Editor after installation, let's walk through a typical user scenario:
