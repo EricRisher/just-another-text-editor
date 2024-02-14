@@ -44,7 +44,7 @@ This project is my answer to a nagging question: How can we keep our digital mus
 7. Start the Application:
 
    Run the application locally by executing:  
-   ```npm run start```
+   ```npm run start```  
    This command starts both the backend and serves the client, bundling the JavaScript files using webpack.  
 
 9. Access the Application:
