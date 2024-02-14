@@ -30,22 +30,24 @@ This project is my answer to a nagging question: How can we keep our digital mus
 
    Obtain the repository URL and use Git to clone it to your local machine with the command:  
    ```git clone git@github.com:EricRisher/just-another-text-editor.git```
-2. Navigate to the Project Directory:
+   
+3. Navigate to the Project Directory:
 
    Change into the project directory using:  
    ```cd main```
-3. Install Dependencies:
+   
+5. Install Dependencies:
 
    Install the required npm packages specified in the package.json file by running:  
-   ```npm install```  
-4. Start the Application:
+   ```npm install```
+   
+7. Start the Application:
 
    Run the application locally by executing:  
-
-   ```npm run start```  
+   ```npm run start```
    This command starts both the backend and serves the client, bundling the JavaScript files using webpack.  
 
-5. Access the Application:
+9. Access the Application:
 
    Open your web browser and go to http://localhost:3000 to use the text editor.  
      
