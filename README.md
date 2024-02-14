@@ -21,6 +21,8 @@ This project is my answer to a nagging question: How can we keep our digital mus
 
 ![jate application demo photo](assets/JATE-demo.png)
 
+[Click Here to Demo the Live Application!](https://just-another-text-editor-fl0x.onrender.com/)
+
   ## Installation
   To install the PWA Text Editor project, follow these steps:
 
